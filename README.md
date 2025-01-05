@@ -6,3 +6,4 @@ edited in github
 
 again edited
 push branch to github
+This is just for the seek of practice about github repository 
